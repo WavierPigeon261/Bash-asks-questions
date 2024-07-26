@@ -15,7 +15,7 @@ read age
 # FINAL ANSWER FROM BASH
 echo "Hi $name! Your'e $age years old."
 sleep 0.5
-echo ", Thinking how I know that? I know everything!"
+echo "Thinking how I know that? I know everything!"
 sleep 0.5
 echo "Thanks for using me."
 echo "Bye from WavierPigeon261"
