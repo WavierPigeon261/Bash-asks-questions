@@ -1,4 +1,4 @@
-# Hello Guys
+Hello Guys
 # This is a script made by WavierPigeon261
 # This bash script asks questions and wait for the end
 # STEPS TO START
