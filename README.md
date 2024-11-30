@@ -13,8 +13,7 @@ apt upgrade
 apt install git
 ```
 ```
-git clone 
-https://github.com/WavierPigeon261/Bash-asks-questions.git
+git clone https://github.com/WavierPigeon261/Bash-asks-questions.git
 ```
 ```
 cd Bash-asks-questions
