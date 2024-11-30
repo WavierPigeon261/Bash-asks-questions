@@ -6,16 +6,22 @@
 ```
 apt update
 ```
+```
 apt upgrade
 ```
+```
 apt install git
+```
 ```
 git clone 
 https://github.com/WavierPigeon261/Bash-asks-questions.git
 ```
+```
 cd Bash-asks-questions
 ```
+```
 chmod +x Bash-asks-questions.sh
+```
 ```
 ./Bash-asks-questions.sh
 ```
